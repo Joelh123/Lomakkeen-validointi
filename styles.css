@@ -1,0 +1,32 @@
+h1 {
+    padding-top: 5%;
+}
+
+table {
+    table-layout: auto;
+}
+
+.nimi-align {
+    text-align: right;
+}
+
+.syote-align {
+    text-align: left;
+}
+
+.valinta-padding {
+    padding-right: 5%;
+}
+
+textarea {
+    height: 125px;
+    width: 275%;
+}
+
+.nappula {
+    margin-left: 23%;
+}
+
+.virhe-teksti {
+    color: red;
+}
